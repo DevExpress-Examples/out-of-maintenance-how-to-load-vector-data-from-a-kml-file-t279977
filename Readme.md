@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/KmlLileLoaderSample/MainPage.xaml)
+<!-- default file list end -->
 # How to: Load vector data from a KML file
 
 
