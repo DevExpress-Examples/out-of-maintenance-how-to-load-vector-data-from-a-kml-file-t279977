@@ -16,13 +16,13 @@ Imports Windows.UI.Xaml.Navigation
 
 Namespace KmlFileLoaderSample
 
-    Public NotInheritable Partial Class MainPage
-        Inherits Page
+	Public NotInheritable Partial Class MainPage
+		Inherits Page
 
-        Public Sub New()
-            Me.InitializeComponent()
-            ApplicationView.PreferredLaunchViewSize = New Size(640, 360)
-            ApplicationView.PreferredLaunchWindowingMode = ApplicationViewWindowingMode.PreferredLaunchViewSize
-        End Sub
-    End Class
+		Public Sub New()
+			Me.InitializeComponent()
+			ApplicationView.PreferredLaunchViewSize = New Size(640, 360)
+			ApplicationView.PreferredLaunchWindowingMode = ApplicationViewWindowingMode.PreferredLaunchViewSize
+		End Sub
+	End Class
 End Namespace
