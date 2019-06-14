@@ -12,11 +12,11 @@
         <Map:MapControl 
             ZoomLevel="2.8"
             Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-            <Map:MapControl.CenterPoint>
+            <Map:MapControl.MapCenterPoint>
                 <Map:GeoPoint 
                     Latitude="40" 
                     Longitude="-110"/>
-            </Map:MapControl.CenterPoint>
+            </Map:MapControl.MapCenterPoint>
             <Map:MapControl.NavigationPanelOptions>
                 <Map:NavigationPanelOptions 
                     ShowCoordinates="False"/>
